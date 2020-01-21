@@ -14,7 +14,7 @@ componentDidMount() {
         Employee: [
             {id: 'singhalr', name: 'Rachita Singhal'},
             {id: 'hassanig', name: 'Gulshan Hassani'},
-            {id: 'draje', name: 'test'}
+            {id: 'draje', name: 'test123'}
           ]
         });
       }
